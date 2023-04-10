@@ -1,14 +1,14 @@
 
 ## Technologies
 
-✅ Redux-Saga
-✅ Redux  
-✅ React (Functional components)
-✅ React Native
-✅ Axios
-✅ TypeScript
-✅ Flexbox
-✅ React Navigation
+✅ Redux-Saga    
+✅ Redux     
+✅ React (Functional components)     
+✅ React Native  
+✅ Axios     
+✅ TypeScript     
+✅ Flexbox   
+✅ React Navigation  
 
 ## Screenshots
 
